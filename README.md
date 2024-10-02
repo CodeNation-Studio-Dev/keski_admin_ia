@@ -29,6 +29,34 @@ What model should we use?
 3-. ![arch3](https://github.com/user-attachments/assets/bc6e05cc-d19e-46bc-80f9-65a4521ebb38)
 4-. ![arch4](https://github.com/user-attachments/assets/5df86ae9-cc02-4c68-bf0a-9be3a9ff6665)
 
+## Package Installation
+[Python](https://www.python.org/downloads/)
+
+[GIT](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+
+[Visual](https://code.visualstudio.com/download)
+
+[Docker](https://docs.docker.com/desktop/)
+
+[DVC](https://dvc.org/doc/install)
+
+[MLFlow](https://www.mlflow.org/docs/2.5.0/quickstart.html)
+
+[FastApi](https://fastapi.tiangolo.com/tutorial/)
+
+[Evidently](https://docs.evidentlyai.com/v/v0.1.57/install-evidently)
+
+[Pytest](https://docs.pytest.org/en/7.1.x/getting-started.html)
+
+[SVD](https://github.com/sdv-dev/SDV)
+
+[DeepCkecks](https://docs.deepchecks.com/stable/getting-started/installation.html)
+
+[ONNX](https://onnxruntime.ai/docs/install/)
+
+[WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
+
+
 ## Constraints
 
 What security consideration we must have?
