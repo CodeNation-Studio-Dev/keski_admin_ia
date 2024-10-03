@@ -59,7 +59,6 @@ What model should we use?
 
 [WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
 
-
 ## Constraints
 
 What security consideration we must have?
@@ -69,4 +68,65 @@ Privacy of the client Database.
 Dockers container
 
 MLOps and DEVops
+
+## MLOps Roadmap
+
+Emplear prácticas de integración y entrega continua (CI/CD) en canalizaciones de aprendizaje automático para optimizar los procesos de desarrollo e implementación de modelos. 
+Aplicar control de versiones para garantizar la reproducibilidad y trazabilidad de los proyectos de aprendizaje automático.
+
+Implementar modelos predictivos como servicios web para beneficiar la accesibilidad, mantenimiento, seguridad y flexibilidad en la integración con aplicaciones y sistemas existentes.
+
+Aplicar técnicas de monitoreo para identificar data drift en modelos desplegados y tomar acciones. 
+
+Estructurar proyectos de Machine Learning de manera organizada, aplicar principios fundamentales de programación orientada a objetos (OOP), refactorizar código para mejorar su eficiencia y mantenibilidad, y crear interfaces de línea de comandos (CLI) para ejecutar y gestionar proyectos de manera escalable y eficiente, facilitando su uso y automatización en diferentes entornos.
+
+2.1. Developing
+
+2.1.1. Structure of ML projects
+
+2.1.2. OOP Fundamentals
+
+2.1.3. Refactoring
+
+2.1.4. CLI
+
+Mejorar la administración y eficiencia de los modelos mediante el seguimiento a los experimentos, registrar métricas, aplicación de control de versiones en experimentos, visualizar resultados y gestionar y versionar los modelos. 
+
+2.2 Tracking
+
+2.2.1 Experiment tracking tools
+
+2.2.2. Logging Metrics
+
+2.2.3. Version control for experiments
+
+2.2.4. Visualization of experiment results
+
+2.2.5 Model Registry
+
+
+Implementar prácticas y técnicas que aseguren la reproducibilidad en el entrenamiento de modelos.
+
+2.3. Reproducibility
+
+2.3.1. Importance and challenges in reproducibility
+
+2.3.2. Reproducibility in model training
+
+2.3.3. Documentation and reporting
+
+2.3.4. Testing for reproducibility
+
+
+Asegurar la calidad, confiabilidad y cumplimiento en los proyectos, implementando prácticas de gobernanza, y aplicando pruebas a código, datos y modelos de Machine Learning. 
+
+2.4. Testing
+
+2.4.1. Governance
+
+2.4.2. Code Testing
+
+2.4.3 Data Testing
+
+2.4.4. Models Testing
 
