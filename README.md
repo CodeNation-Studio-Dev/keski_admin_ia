@@ -11,12 +11,17 @@ It will containe the architecture, the documentation of the alternatives we have
 ![RoadMap](https://github.com/user-attachments/assets/6799a0fd-037d-4524-ac74-d0ab3f4d3fe1)
 
 ## Documentation
+[LogChains](https://h3manth.com/notes/SQLDatabaseChain/)
 
 [Talk to your Database using RAG and LLMs](https://medium.com/primastat/talk-to-your-database-using-rag-and-llms-42eb852d2a3c)
 
 [ReAct: Integrating Reasoning and Acting with Retrieval-Augmented Generation (RAG)](https://bluetickconsultants.medium.com/react-integrating-reasoning-and-acting-with-retrieval-augmented-generation-rag-a6c2e869f763)
 
 [Next-Gen Large Language Models: The Retrieval-Augmented Generation (RAG) Handbook](https://www.freecodecamp.org/news/retrieval-augmented-generation-rag-handbook/)
+
+[Docker Ubuntu](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository)
+
+[Docker Create SQL Database](https://docs.docker.com/guides/use-case/databases/#access-the-shell-of-a-containerized-database)
 
 ## Ollama
 
