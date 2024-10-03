@@ -4,6 +4,9 @@
 This resporitory will save all the documentation of the AI project for Keskinube.
 It will containe the architecture, the documentation of the alternatives we have and all the content generated. LLM models, RAGs, Code.
 
+## LLM's Brief
+[LLM Basics](https://www.lesswrong.com/posts/pHPmMGEMYefk9jLeh/llm-basics-embedding-spaces-transformer-token-vectors-are)
+
 ## Roadmap
 ![RoadMap](https://github.com/user-attachments/assets/6799a0fd-037d-4524-ac74-d0ab3f4d3fe1)
 
