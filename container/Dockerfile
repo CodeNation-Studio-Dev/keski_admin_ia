@@ -17,9 +17,10 @@ WORKDIR /app
 COPY requirements.txt .
 
 # Instalar las dependencias de Python
-RUN pip install --upgrade pip --proxy http://proxy-dmz.intel.com:912
-RUN pip install numpy --proxy http://proxy-dmz.intel.com:912
-RUN pip install --no-cache-dir -r requirements.txt --proxy http://proxy-dmz.intel.com:912
+ENV HTTP_PROXY " http://proxy-dmz.intel.com:912"
+RUN pip install --upgrade pip --proxy=$HTTP_PROXY
+RUN pip install numpy --proxy=$HTTP_PROXY
+RUN pip install --no-cache-dir -r requirements.txt --proxy=$HTTP_PROXY
 
 # Copiar el código de la aplicación al contenedor
 COPY . .
